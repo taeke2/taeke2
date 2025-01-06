@@ -1,4 +1,4 @@
-<a href="https://taek2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog?style=plastic&logo=tistory&logoColor=#FE5F50"/></a>
+<a href="https://taek2.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/blog?style=plastic&logo=tistory&logoColor=000000"/></a>
 
 <!--
 **taeke2/taeke2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
