@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/hstaek95@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/><br>
   <a href="https://taek2.tistory.com"><img src="https://img.shields.io/badge/taek2.tistory.com-000000?style=flat&logo=tistory" /></a><br>
-  <a href="https://airy-quartz-709.notion.site/16208c81116f8059b002df105012b855?pvs=4"><img src="https://img.shields.io/badge/profile-000000?style=flat&logo=notion&logoColor=white" /></a>
+  <a href="https://www.notion.so/1c408c81116f803b8f37ec283d36a2bc?pvs=74"><img src="https://img.shields.io/badge/profile-000000?style=flat&logo=notion&logoColor=white" /></a>
 </div>
 
 
